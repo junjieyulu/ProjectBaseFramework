@@ -1,0 +1,13 @@
+/* 
+  FFMeViewModel.strings
+  fangfull_new
+
+  Created by Lee on 16/8/19.
+  Copyright © 2016年 zhonhong. All rights reserved.
+*/
+
+"Mevc_NormalCell_FeedBackName" = "Feedback";
+"Mevc_NormalCell_ClearChacheName" = "ClearChache";
+"Mevc_SecondCell_MyPerformance" = "My performance";
+"Mevc_NormalCell_ChangedPasswordName" = "ChangedPassword";
+"Mevc_FourthCell_Logout" = "Logout";

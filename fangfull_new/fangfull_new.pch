@@ -1,0 +1,23 @@
+//
+//  fangfull_new.pch
+//  fangfull_new
+//
+//  Created by Lee on 16/7/19.
+//  Copyright © 2016年 zhonhong. All rights reserved.
+//
+
+#ifndef fangfull_new_pch
+#define fangfull_new_pch
+
+#import "SystemMacros.h"
+#import "UIImage+WJColor.h"
+#import "UIColor+WJCategory.h"
+#import "FFColorMacros.h"
+#import <MJRefresh.h>
+#import <Masonry.h>
+#import <MJExtension.h>
+#import "FFRequestManager.h"
+#import "FFRequestConst.h"
+#import "FFUserDefaultConst.h"
+
+#endif /* fangfull_new_pch */

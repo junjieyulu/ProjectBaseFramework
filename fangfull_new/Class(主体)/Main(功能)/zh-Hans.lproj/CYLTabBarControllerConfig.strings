@@ -1,0 +1,13 @@
+/* 
+  CYLTabBarControllerConfig.strings
+  fangfull_new
+
+  Created by Lee on 16/8/19.
+  Copyright © 2016年 zhonhong. All rights reserved.
+*/
+
+"FangFull_Homevc_Title" = "楼盘";
+"FangFull_Infovc_Title" = "信息";
+"FangFull_Customervc_Title" = "客户";
+"FangFull_Mevc_Title" = "个人中心";
+"FangFull_Mevc_TabBar_Title" = "个人";

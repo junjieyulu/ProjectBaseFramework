@@ -1,0 +1,10 @@
+/* 
+  FFAlertString.strings
+  fangfull_new
+
+  Created by Lee on 16/8/19.
+  Copyright © 2016年 zhonhong. All rights reserved.
+*/
+
+"FFLogin_Alert_NoDataInput" = "您还未输入账号或密码，\n请输入";
+"FFLogin_Alert_MakeSure" = "确定";

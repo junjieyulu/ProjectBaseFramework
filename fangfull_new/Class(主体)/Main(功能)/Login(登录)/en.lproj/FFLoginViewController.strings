@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "密码："; ObjectID = "0oO-FX-zdM"; */
+"0oO-FX-zdM.text" = "Password：";
+
+/* Class = "UILabel"; text = "账号："; ObjectID = "Kyv-Db-5sN"; */
+"Kyv-Db-5sN.text" = "Acount：";
+
+/* Class = "UIButton"; normalTitle = "登     录"; ObjectID = "nvj-fK-qgu"; */
+"nvj-fK-qgu.normalTitle" = "Login";
+
+/* Class = "UILabel"; text = "仅限房产经纪人登录"; ObjectID = "sdN-YP-1NU"; */
+"sdN-YP-1NU.text" = "Real estate agent login only";

@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "我的收藏"; ObjectID = "DNc-Em-4qq"; */
+"DNc-Em-4qq.text" = "My collection";
+
+/* Class = "UILabel"; text = "仅限房产经纪人登录"; ObjectID = "aH1-70-rFT"; */
+"aH1-70-rFT.text" = "Real estate agent login only";
+
+/* Class = "UILabel"; text = "点此登录"; ObjectID = "r9Z-pZ-sgK"; */
+"r9Z-pZ-sgK.text" = "Click login";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "u0G-lc-fC7"; */
+"u0G-lc-fC7.text" = "Label";
+
+/* Class = "UILabel"; text = "未登录"; ObjectID = "uhq-vG-mdv"; */
+"uhq-vG-mdv.text" = "Not logged in";

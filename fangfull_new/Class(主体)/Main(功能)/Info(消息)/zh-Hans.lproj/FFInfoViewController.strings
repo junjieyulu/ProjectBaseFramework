@@ -1,0 +1,12 @@
+/* 
+  FFInfoViewController.strings
+  fangfull_new
+
+  Created by Lee on 16/8/19.
+  Copyright © 2016年 zhonhong. All rights reserved.
+*/
+
+
+"FangFull_Infovc_MenuTitle_Info" = "资讯";
+"FangFull_Infovc_MenuTitle_Prom" = "推广";
+"FangFull_Infovc_MenuTitle_Customer" = "客户";

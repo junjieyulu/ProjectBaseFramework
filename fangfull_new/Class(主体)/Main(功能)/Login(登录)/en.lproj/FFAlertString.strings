@@ -1,0 +1,10 @@
+/* 
+  FFAlertString.strings
+  fangfull_new
+
+  Created by Lee on 16/8/19.
+  Copyright © 2016年 zhonhong. All rights reserved.
+*/
+
+"FFLogin_Alert_NoDataInput" = "You have not input account or password \n Please input";
+"FFLogin_Alert_MakeSure" = "OK";

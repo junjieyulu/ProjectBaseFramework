@@ -1,0 +1,9 @@
+/* 
+  FFMeViewController.strings
+  fangfull_new
+
+  Created by Lee on 16/8/19.
+  Copyright © 2016年 zhonhong. All rights reserved.
+*/
+
+"Mevc_HeadCell_Login" = "登录";
